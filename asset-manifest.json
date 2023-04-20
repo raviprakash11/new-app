@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/new-app/static/css/main.bc562552.css",
-    "main.js": "/new-app/static/js/main.76332197.js",
+    "main.css": "/new-app/static/css/main.cd9bce72.css",
+    "main.js": "/new-app/static/js/main.ee5e8780.js",
     "static/js/787.a5de99cd.chunk.js": "/new-app/static/js/787.a5de99cd.chunk.js",
     "static/media/NanumGothic-Regular.ttf": "/new-app/static/media/NanumGothic-Regular.6c84540de7730f833d6c.ttf",
     "static/media/NanumGothic-Bold.ttf": "/new-app/static/media/NanumGothic-Bold.6499af72b1d61fe8269d.ttf",
     "static/media/Poppins-Regular.ttf": "/new-app/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Rubik-Regular.ttf": "/new-app/static/media/Rubik-Regular.42535d1e2d489e27b525.ttf",
     "index.html": "/new-app/index.html",
-    "main.bc562552.css.map": "/new-app/static/css/main.bc562552.css.map",
-    "main.76332197.js.map": "/new-app/static/js/main.76332197.js.map",
+    "main.cd9bce72.css.map": "/new-app/static/css/main.cd9bce72.css.map",
+    "main.ee5e8780.js.map": "/new-app/static/js/main.ee5e8780.js.map",
     "787.a5de99cd.chunk.js.map": "/new-app/static/js/787.a5de99cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc562552.css",
-    "static/js/main.76332197.js"
+    "static/css/main.cd9bce72.css",
+    "static/js/main.ee5e8780.js"
   ]
 }
